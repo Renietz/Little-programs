@@ -1,2 +1,2 @@
 # Little-programs
- Some of my firsts programs in python
+ Some of my first programs in python
