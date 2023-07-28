@@ -1,4 +1,4 @@
-# questão 2
+
 
 
 # VARIÁVEIS :
